@@ -1,4 +1,4 @@
-def citizen_service():
-    return "Citizen Services Tested Successfully"
+def device_status():
+    return "IoT Device Connected Successfully"
 
-print(citizen_service())
+print(device_status())
