@@ -1,4 +1,4 @@
-from app import status
+from app import citizen_service
 
-def test_status():
-    assert status()=="System Working"
+def test_citizen_service():
+    assert citizen_service() == "Citizen Services Tested Successfully"
