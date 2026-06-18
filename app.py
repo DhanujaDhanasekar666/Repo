@@ -1,4 +1,4 @@
-def transaction_status():
-    return "Transaction Validated Successfully"
+def game_server():
+    return "Game Server Running Successfully"
 
-print(transaction_status())
+print(game_server())
