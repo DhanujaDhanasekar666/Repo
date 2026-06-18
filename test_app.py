@@ -1,4 +1,4 @@
-from app import device_status
+from app import transaction_status
 
-def test_device_status():
-    assert device_status() == "IoT Device Connected Successfully"
+def test_transaction_status():
+    assert transaction_status() == "Transaction Validated Successfully"
