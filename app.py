@@ -1,4 +1,4 @@
-def status():
-    return "System Working"
+def citizen_service():
+    return "Citizen Services Tested Successfully"
 
-print(status())
+print(citizen_service())
