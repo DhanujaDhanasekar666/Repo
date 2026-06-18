@@ -1,4 +1,4 @@
-def device_status():
-    return "IoT Device Connected Successfully"
+def transaction_status():
+    return "Transaction Validated Successfully"
 
-print(device_status())
+print(transaction_status())
