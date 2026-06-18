@@ -1,4 +1,4 @@
-from app import transaction_status
+from app import game_server
 
-def test_transaction_status():
-    assert transaction_status() == "Transaction Validated Successfully"
+def test_game_server():
+    assert game_server() == "Game Server Running Successfully"
